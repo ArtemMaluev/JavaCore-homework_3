@@ -1,0 +1,20 @@
+Файл GameProgress{health=100, weapons=2, lvl=5, distance=15.2} был создан
+
+Файл GameProgress{health=75, weapons=5, lvl=12, distance=55.4} был создан
+
+Файл GameProgress{health=120, weapons=10, lvl=30, distance=98.8} был создан
+
+Архив saveZip.zip создан
+
+Файл save1.dat помещен в архив
+
+Исходный файл save1.dat удален
+
+Файл save2.dat помещен в архив
+
+Исходный файл save2.dat удален
+
+Файл save3.dat помещен в архив
+
+Исходный файл save3.dat удален
+

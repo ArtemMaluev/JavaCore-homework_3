@@ -1,0 +1,39 @@
+Директория Games создана
+Путь к директории: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games
+
+Каталог src создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\src
+
+Каталог res создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\res
+
+Каталог savegames создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\savegames
+
+Каталог temp создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\temp
+
+Каталог main создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\src\main
+
+Каталог test создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\src\test
+
+Каталог drawables создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\res\drawables
+
+Каталог vectors создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\res\vectors
+
+Каталог icons создан
+Путь к каталогу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\res\icons
+
+Файл Main.java был создан
+Путь к файлу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\src\main\Main.java
+
+Файл Utils.java был создан
+Путь к файлу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\src\main\Utils.java
+
+Файл temp.txt был создан
+Путь к файлу: D:\JavaCourse\HomeWork_JavaCore\src\maluevArtem\homework_3\homework_3_1\Games\temp\temp.txt
+
